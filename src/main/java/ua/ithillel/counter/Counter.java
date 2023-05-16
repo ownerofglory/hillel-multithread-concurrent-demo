@@ -1,5 +1,7 @@
 package ua.ithillel.counter;
 
+import java.util.concurrent.locks.Lock;
+
 public class Counter {
     private int count;
 
